@@ -1,6 +1,6 @@
 # Eletro Ventilador Front-End Design
 
-![Main Menu](/Images and Icons/Main Menu.png)
+![Main Menu](./Images and Icons/Main Menu.png)
 
 O objetivo deste repositório é desenvolver a interface homem-máquina para um ventilador mecânico que está em desenvolvimento.
 
