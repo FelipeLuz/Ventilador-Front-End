@@ -12,6 +12,6 @@ O objetivo deste repositório é desenvolver a interface homem-máquina para um 
 
 # Como Usar
 
-- Criar as interfaces utilizando o [Figma](https://www.figma.com/)
+- Criar as páginas utilizando o [Figma](https://www.figma.com/)
 - Baixar e Instalar o [Nextion Editor](https://nextion.tech/nextion-editor/)
 - Abrir o arquivo [EletroVentilador.hmi](/EletroVentilador.HMI) utilizando o [Nextion Editor](https://nextion.tech/nextion-editor/)
